@@ -1,6 +1,8 @@
 # Hello! Everyone!!!
 <pre>My name is Nur Javier Prasetyo!
-You can call me Javier :D</pre>
+You can call me Javier :)
+
+Nice to meet you :D</pre>
 
 ![wallpaper desktop](https://user-images.githubusercontent.com/70767613/193721642-0f6d301a-143a-406c-a058-3c04ecd339fb.png)
 
