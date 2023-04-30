@@ -12,6 +12,8 @@ Nice to meet you :D</pre>
 - 🌱 I’m currently learning Coding
 - 🏠 I live in Palang, Tuban, East Java, Indonesia
 - 🏫 I study at SMK Telkom Malang
+- wait what? you need more information?
+just add me on discord! (nurjavier8789#9335)
 
 See more about me on my website!
 https://nurjavier.framer.website/about
