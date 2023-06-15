@@ -13,7 +13,7 @@ Nice to meet you :D</pre>
 - 🏠 I live in Palang, Tuban, East Java, Indonesia
 - 🏫 I study at SMK Telkom Malang
 - wait what? you need more information?
-just add me on discord! (nurjavier8789#9335)
+just add me on discord! (nurjavier8789)
 
 See more about me on my website!
 https://nurjavier.framer.website/about
