@@ -16,4 +16,4 @@ Nice to meet you :D</pre>
 just add me on discord! (nurjavier8789)
 
 See more about me on my website!
-https://nurjavier.framer.website/about
+https://nurjavier.framer.website/about or https://nurjavier8789.github.io (This is main one)
