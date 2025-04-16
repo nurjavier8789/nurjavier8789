@@ -1,19 +1,14 @@
-# Hello! Everyone!!!
+# Hello Everyone!!!
+
+![wallpaper desktop](https://user-images.githubusercontent.com/70767613/193721642-0f6d301a-143a-406c-a058-3c04ecd339fb.png)
+
 <pre>My name is Nur Javier Prasetyo!
 You can call me Javier :)
 
 Nice to meet you :D</pre>
 
-![wallpaper desktop](https://user-images.githubusercontent.com/70767613/193721642-0f6d301a-143a-406c-a058-3c04ecd339fb.png)
+I have no idea what i'm doing\
+I'm just ordinary programmer
 
-
-
-- 👀 I’m interested in Game!
-- 🌱 I’m currently learning Coding
-- 🏠 I live in Palang, Tuban, East Java, Indonesia
-- 🏫 I study at SMK Telkom Malang
-- wait what? you need more information?
-just add me on discord! (nurjavier8789)
-
-See more about me on my website!
-https://nurjavier.framer.website/about or https://nurjavier8789.github.io/about.html (This is main one)
+See more about me on my website!\
+https://nurjavier8789.github.io/about.html (This is main one)
